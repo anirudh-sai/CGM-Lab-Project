@@ -6,13 +6,13 @@ The project uses C++ and the OpenGL library to implement the game
 ## Controls for the game are as follows
 
 ### CUBE VISUALISATION
-	L: rotate right
+L: rotate right
   
-	J: rotate left
+J: rotate left
 	
-  I: rotate down
+I: rotate down
   
-  K: rotate up
+K: rotate up
 	
   +/mouse left click: zoom in
 	
